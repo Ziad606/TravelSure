@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\TravelSure\TravelSure.Business\bin\Debug\net7.0\TravelSure.Business.deps.json
+C:\Users\user\source\repos\TravelSure\TravelSure.Business\bin\Debug\net7.0\TravelSure.Business.dll
+C:\Users\user\source\repos\TravelSure\TravelSure.Business\bin\Debug\net7.0\TravelSure.Business.pdb
+C:\Users\user\source\repos\TravelSure\TravelSure.Business\bin\Debug\net7.0\TravelSure.Data.dll
+C:\Users\user\source\repos\TravelSure\TravelSure.Business\bin\Debug\net7.0\TravelSure.Data.pdb
+C:\Users\user\source\repos\TravelSure\TravelSure.Business\obj\Debug\net7.0\TravelSure.Business.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TravelSure\TravelSure.Business\obj\Debug\net7.0\TravelSure.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TravelSure\TravelSure.Business\obj\Debug\net7.0\TravelSure.Business.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TravelSure\TravelSure.Business\obj\Debug\net7.0\TravelSure.Business.AssemblyInfo.cs
+C:\Users\user\source\repos\TravelSure\TravelSure.Business\obj\Debug\net7.0\TravelSure.Business.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TravelSure\TravelSure.Business\obj\Debug\net7.0\TravelSu.67AA557F.Up2Date
+C:\Users\user\source\repos\TravelSure\TravelSure.Business\obj\Debug\net7.0\TravelSure.Business.dll
+C:\Users\user\source\repos\TravelSure\TravelSure.Business\obj\Debug\net7.0\refint\TravelSure.Business.dll
+C:\Users\user\source\repos\TravelSure\TravelSure.Business\obj\Debug\net7.0\TravelSure.Business.pdb
+C:\Users\user\source\repos\TravelSure\TravelSure.Business\obj\Debug\net7.0\ref\TravelSure.Business.dll

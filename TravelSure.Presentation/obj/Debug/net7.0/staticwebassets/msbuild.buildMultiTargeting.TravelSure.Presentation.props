@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TravelSure.Presentation.props" />
+</Project>

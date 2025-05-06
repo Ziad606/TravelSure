@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\TravelSure\TravelSure.Data\bin\Debug\net7.0\TravelSure.Data.deps.json
+C:\Users\user\source\repos\TravelSure\TravelSure.Data\bin\Debug\net7.0\TravelSure.Data.dll
+C:\Users\user\source\repos\TravelSure\TravelSure.Data\bin\Debug\net7.0\TravelSure.Data.pdb
+C:\Users\user\source\repos\TravelSure\TravelSure.Data\obj\Debug\net7.0\TravelSure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TravelSure\TravelSure.Data\obj\Debug\net7.0\TravelSure.Data.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TravelSure\TravelSure.Data\obj\Debug\net7.0\TravelSure.Data.AssemblyInfo.cs
+C:\Users\user\source\repos\TravelSure\TravelSure.Data\obj\Debug\net7.0\TravelSure.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TravelSure\TravelSure.Data\obj\Debug\net7.0\TravelSure.Data.dll
+C:\Users\user\source\repos\TravelSure\TravelSure.Data\obj\Debug\net7.0\refint\TravelSure.Data.dll
+C:\Users\user\source\repos\TravelSure\TravelSure.Data\obj\Debug\net7.0\TravelSure.Data.pdb
+C:\Users\user\source\repos\TravelSure\TravelSure.Data\obj\Debug\net7.0\ref\TravelSure.Data.dll
