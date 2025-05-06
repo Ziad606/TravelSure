@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\TravelSure\\TravelSure.Data\\TravelSure.Data.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\TravelSure\\TravelSure.Data\\TravelSure.Data.csproj",
       "projectName": "TravelSure.Data",
-      "projectPath": "C:\\Users\\user\\source\\repos\\TravelSure\\TravelSure.Data\\TravelSure.Data.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\TravelSure\\TravelSure.Data\\TravelSure.Data.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\TravelSure\\TravelSure.Data\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\TravelSure\\TravelSure.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

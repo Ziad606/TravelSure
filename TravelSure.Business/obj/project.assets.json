@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\TravelSure\\TravelSure.Business\\TravelSure.Business.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\TravelSure\\TravelSure.Business\\TravelSure.Business.csproj",
       "projectName": "TravelSure.Business",
-      "projectPath": "C:\\Users\\user\\source\\repos\\TravelSure\\TravelSure.Business\\TravelSure.Business.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\TravelSure\\TravelSure.Business\\TravelSure.Business.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\TravelSure\\TravelSure.Business\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\TravelSure\\TravelSure.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\TravelSure\\TravelSure.Data\\TravelSure.Data.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\TravelSure\\TravelSure.Data\\TravelSure.Data.csproj"
+            "C:\\Users\\user\\Documents\\GitHub\\TravelSure\\TravelSure.Data\\TravelSure.Data.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\GitHub\\TravelSure\\TravelSure.Data\\TravelSure.Data.csproj"
             }
           }
         }
